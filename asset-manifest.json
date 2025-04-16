@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/QuestLib-Editor/static/css/main.615af923.css",
+    "main.js": "/QuestLib-Editor/static/js/main.48b542f8.js",
+    "static/js/453.75898a74.chunk.js": "/QuestLib-Editor/static/js/453.75898a74.chunk.js",
+    "index.html": "/QuestLib-Editor/index.html",
+    "main.615af923.css.map": "/QuestLib-Editor/static/css/main.615af923.css.map",
+    "main.48b542f8.js.map": "/QuestLib-Editor/static/js/main.48b542f8.js.map",
+    "453.75898a74.chunk.js.map": "/QuestLib-Editor/static/js/453.75898a74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.615af923.css",
+    "static/js/main.48b542f8.js"
+  ]
+}
